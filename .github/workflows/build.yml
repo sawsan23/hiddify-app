@@ -54,7 +54,6 @@ jobs:
 
 
   build:
-    needs: test
     permissions: write-all
     strategy:
       fail-fast: false
