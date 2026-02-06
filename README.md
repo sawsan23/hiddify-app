@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" width=56% /></p>
 <br>
 
-<div align="center">
+<div align="center"> 
 
 <!--
 ![Hiddify logo + text](https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542)
